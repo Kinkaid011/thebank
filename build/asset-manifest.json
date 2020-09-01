@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/thebank/static/js/main.b361bd6b.chunk.js",
+    "main.js.map": "/thebank/static/js/main.b361bd6b.chunk.js.map",
+    "runtime-main.js": "/thebank/static/js/runtime-main.fb6c2d13.js",
+    "runtime-main.js.map": "/thebank/static/js/runtime-main.fb6c2d13.js.map",
+    "static/js/2.669ad99e.chunk.js": "/thebank/static/js/2.669ad99e.chunk.js",
+    "static/js/2.669ad99e.chunk.js.map": "/thebank/static/js/2.669ad99e.chunk.js.map",
+    "index.html": "/thebank/index.html",
+    "precache-manifest.d4e1ed7a55822155a887ab9c4beda6c5.js": "/thebank/precache-manifest.d4e1ed7a55822155a887ab9c4beda6c5.js",
+    "service-worker.js": "/thebank/service-worker.js",
+    "static/js/2.669ad99e.chunk.js.LICENSE.txt": "/thebank/static/js/2.669ad99e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb6c2d13.js",
+    "static/js/2.669ad99e.chunk.js",
+    "static/js/main.b361bd6b.chunk.js"
+  ]
+}

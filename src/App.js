@@ -28,7 +28,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route exact path="/" component= { Loading }></Route> 
+          <Route exact path="https://kinkaid011.github.io/thebank/" component= { Loading }></Route> 
           <Route path="/login" component= { Login }></Route> 
           <Route path="/accounts" component= { Accounts }></Route> 
           <Route path="/transfer" component= { Transfer }></Route> 
